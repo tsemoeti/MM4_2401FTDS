@@ -1,1 +1,1 @@
-# MM4_2401FTDS
+# MM4_2401FTDS-Anime_Recommender_System_Project_2024
