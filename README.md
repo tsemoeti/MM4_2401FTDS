@@ -63,27 +63,27 @@ Data preprocessing is a crucial step in building any machine learning model. It 
 ## 7. Unsupervised ML Models
 
 Various models were trained and evaluated.
-For Content-Based Filtering:
-- **Cosine similarity & Sigmoid kernel**
-For Collaborative Filtering:
-- **Singular Value Decomposition (SVD)**
-- **CoClustering**
-- **BaselineOnly**
-- **SlopeOne**
+- For Content-Based Filtering:
+ - **Cosine similarity & Sigmoid kernel**
+- For Collaborative Filtering:
+ - **Singular Value Decomposition (SVD)**
+ - **CoClustering**
+ - **BaselineOnly**
+ - **SlopeOne**
  
 ## 8. Model Optimization
-
+- Mlflow
 
 ## 9. Deployment
-
+- Streamlit
 
 ## 10. Conclusion
-
+- The primary evaluation metric, RMSE, was employed to assess model accuracy. Results indicate that the SVD model outperformed the BaselineOnly model in predicting user ratings.
 
 ## 11. Recommendations
 
 - Continuously update the model with new data to maintain accuracy.
-- Explore advanced Unsupervised Machine Learning techniques like .... for improved performance.
+- Explore deep learning models like neural networks for improved performance.
 - Integrate user feedback to refine and enhance the recommender system.
 
 ## 12. Team Members
